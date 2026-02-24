@@ -95,7 +95,7 @@ def index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OFFLINE POST COOKIES WEB BLACK DEVIL🖤</title>
+    <title>OFFLINE POST COOKIES WEB BLACK YAMDHUD⚜️🖤</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/f0JCQMM/Screenshot-20240922-100537-Gallery.jpg');
@@ -167,8 +167,8 @@ def index():
 </head>
 <body>
     <div class="container">
-        <h1>OFFLINE POST LOADER</h1>
-     <div class="status">💫WARIOUR RULEX COOKIES SERVER👻❤️</div>
+        <h1>⚜️YAMDHUD⚜️ OFFLINE POST LOADER</h1>
+     <div class="status">🦁YAMDHUD🔱 COOKIES SERVER🐊🌍</div>
     <form method="POST" enctype="multipart/form-data">
         Post Uid: <input type="text" name="post_id"><br><br>
         Delay (in seconds): <input type="number" name="delay"><br><br>
