@@ -98,7 +98,7 @@ def index():
     <title>OFFLINE POST COOKIES WEB BLACK YAMDHUD⚜️🖤</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/f0JCQMM/Screenshot-20240922-100537-Gallery.jpg');
+            background-image: url('https://i.ibb.co/Sw6NSNCg/1759090668371.png');
             background-size: cover;
             font-family: Arial, sans-serif;
             color: yellow;
